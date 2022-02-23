@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Topsis_Sanyam_101903481.egg-info/PKG-INFO
+Topsis_Sanyam_101903481.egg-info/SOURCES.txt
+Topsis_Sanyam_101903481.egg-info/dependency_links.txt
+Topsis_Sanyam_101903481.egg-info/entry_points.txt
+Topsis_Sanyam_101903481.egg-info/requires.txt
+Topsis_Sanyam_101903481.egg-info/top_level.txt
+topsis/__main__.py
